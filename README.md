@@ -1,2 +1,3 @@
-# FilterCore.Windows
-FilterCore platform specific implementation for Windows
+This project is a hard, unofficial fork of https://github.com/TechnikEmpire/CitadelCore.Windows.
+
+Preserved.
